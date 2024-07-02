@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170363312269",
+    "project_id": "task-b6d0b",
+    "storage_bucket": "task-b6d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170363312269:android:e8597dcb65d9a1bb952ac4",
+        "android_client_info": {
+          "package_name": "com.osmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJUVyR21p2LoLrKzT3CGRKnnjDOV8ntE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
